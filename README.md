@@ -1,4 +1,4 @@
-$GAWE NDUN
+**GAWE NDUN**
 
 pip install -r requirements.txt
 
