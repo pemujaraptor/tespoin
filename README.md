@@ -1,3 +1,4 @@
+#GAWE NDUN
 pip install -r requirements.txt
 
 edit proxy (dalam data)
